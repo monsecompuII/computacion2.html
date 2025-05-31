@@ -1,9 +1,6 @@
 ﻿<html>
-
 <head>
-
 <title>Hiperv&iacutenculos</title></head>
-
 <body link="gray" vlink="Maroon" alink="olive">
 
 <h1><center>Hiperv&iacutenculos</h1></center>
